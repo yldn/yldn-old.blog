@@ -1,2 +1,1 @@
-# yldn.github.io
- 
+### This is a open page blog repo hosted in Github

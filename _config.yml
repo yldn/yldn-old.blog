@@ -1,0 +1,57 @@
+# Site settings
+title: Yang's Blog
+email: liudongnan.yang@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  sharing technical content 
+baseurl: "yldn.github.io" # the subpath of your site, e.g. /blog/
+url: yldn.github.io # the base hostname & protocol for your site
+# rss_url: /pages/feed.xml
+author: Liudongnan Yang
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 15
+
+# Social account
+# twitter: 
+# weibo: 
+github: yldn
+# instagram: 
+# linkedin: 
+
+# avatar and Favicon
+# avatar: http://imgs.yansu.org/site-avatar.png
+# favicon: http://imgs.yansu.org/site-favicon.ico
+
+avatar: image/myAvatar.png
+favicon: image/myAvatar.png
+
+
+# disqus config
+# disqus:
+#  shortname: 
+
+# google analytics config
+# ga:
+#  id: UA-54767140-1
+#  url: 
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+
+
+
