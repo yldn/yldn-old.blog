@@ -21,8 +21,6 @@ github: yldn
 # linkedin: 
 
 # avatar and Favicon
-# avatar: http://imgs.yansu.org/site-avatar.png
-# favicon: http://imgs.yansu.org/site-favicon.ico
 
 avatar: /image/myAvatar.png
 favicon: /image/myAvatar.png
@@ -34,7 +32,7 @@ favicon: /image/myAvatar.png
 
 # google analytics config
 # ga:
-#  id: UA-54767140-1
+#  id: 
 #  url: 
 
 # Build settings
