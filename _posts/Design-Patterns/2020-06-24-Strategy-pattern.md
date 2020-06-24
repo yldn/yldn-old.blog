@@ -2,7 +2,7 @@
 author: Liudongnan_Yang
 layout: post
 title: Strategy pattern
-category: Design Patterns
+category: DesignPatterns
 tags: software engineering
 description:  software design
 ---
