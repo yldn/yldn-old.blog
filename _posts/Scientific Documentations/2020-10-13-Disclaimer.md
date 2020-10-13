@@ -2,7 +2,7 @@
 author: Liudongnan_Yang
 layout: post
 title: Disclaimer
-category: DesignPatterns
+category: Scientific Documentations
 tags: disclaimer
 description:  software design
 ---
