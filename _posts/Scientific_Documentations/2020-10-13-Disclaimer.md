@@ -2,9 +2,10 @@
 author: Liudongnan_Yang
 layout: post
 title: Disclaimer
-category: Scientific Documentations
+category: Scientific_Documentations
 tags: disclaimer
 description:  Documentation
+
 ---
 
 # WEBSITE DISCLAIMER
