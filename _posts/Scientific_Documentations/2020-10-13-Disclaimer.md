@@ -9,7 +9,7 @@ description:  Documentation
 ---
 
 # WEBSITE DISCLAIMER
-    Last updated [2020]
+Last updated [2020]
 
 ## INTRODUCTION
 
