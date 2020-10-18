@@ -2,7 +2,7 @@
 author: Liudongnan_Yang
 layout: post
 title: Disclaimer
-category: Scientific_Documentations
+category: 学术论文和专业记录
 tags: disclaimer
 description:  Documentation
 
