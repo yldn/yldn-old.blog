@@ -1,7 +1,7 @@
 ---
 author: Liudongnan_Yang
 layout: post
-title: Strategy pattern
+title: 策略模式
 category: 设计模式
 tags: software engineering
 description: software design

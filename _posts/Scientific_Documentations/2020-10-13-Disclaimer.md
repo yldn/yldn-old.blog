@@ -17,7 +17,7 @@ The information provided by me on yldn.github.io is for general informational pu
 
 Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the site or reliance on any information provided on the site. Your use of the site and your reliance on any information on the site  is solely at your own risk
 
-## EXTERNAL LINKS DISCLAIMER FOR 
+## EXTERNAL LINKS DISCLAIMER FOR YLDN.github.io
 
 The Site  may contain or you may be sent through the Site links to other websites or content belonging to or originating from third parties or links to websites and features in banners or other advertising. Such external links are not investigated, monitored, or checked for accuracy, adequacy, validity, reliability, availability or completeness by us.
 
